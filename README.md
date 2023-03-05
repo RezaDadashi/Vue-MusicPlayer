@@ -8,8 +8,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## installation
 ___
-
-Indented code
-
     yarn
     yarn dev
