@@ -27,7 +27,7 @@
     <div class="album">
       <div class="album-art" :style="`background: #fff url(${currentMusic.photo}) center/cover no-repeat;`"></div>
       <!--  /.album-art -->
-      <div class="vinyl" :style="`background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/83141/vinyl.png'), url(${currentMusic.photo});`"></div>
+      <div class="vinyl" :style="`background-image: url('/images/vinyl.png'), url(${currentMusic.photo});`"></div>
       <!--  /.vinyl -->
     </div>
     <!--  /.album-art -->
